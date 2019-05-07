@@ -1,0 +1,1 @@
+Welcome to CTFcul. This is just some padding. If you pay attention, this is vulnerable to frequency analysis. If you can read this, send the :santa: emoji as a private message @Diogo on Discord. Merry Xmas.
